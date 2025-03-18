@@ -17,9 +17,9 @@ Lee Holmes ([@Lee_Homes](https://twitter.com/Lee_Holmes))
 
 Research
 --------
-Blog Post: [https://www.fireeye.com/blog/threat-research/2017/07/revoke-obfuscation-powershell.html](https://www.fireeye.com/blog/threat-research/2017/07/revoke-obfuscation-powershell.html)
+Blog Post: [https://cloud.google.com/blog/topics/threat-intelligence/revoke-obfuscation-powershell](https://cloud.google.com/blog/topics/threat-intelligence/revoke-obfuscation-powershell)
 
-White Paper: [https://www.fireeye.com/content/dam/fireeye-www/blog/pdfs/revoke-obfuscation-report.pdf](https://www.fireeye.com/content/dam/fireeye-www/blog/pdfs/revoke-obfuscation-report.pdf)
+White Paper: [https://services.google.com/fh/files/misc/powershell-obfuscation-detection-using-science.pdf](https://services.google.com/fh/files/misc/powershell-obfuscation-detection-using-science.pdf)
 
 Background
 ----------
